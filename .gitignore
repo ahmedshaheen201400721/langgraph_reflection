@@ -1,0 +1,3 @@
+# list all gitignore files
+*.db
+*.env
